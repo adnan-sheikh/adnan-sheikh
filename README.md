@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnan-sheikh
-- 👀 I’m interested in Full-stack web app dev using JavaScript
-- 🌱 I’m currently diving deeper into learning React and Redux and simultaneously, building projects
+- 👀 I’m interested in Full-stack web app dev using JavaScript (I am more into Remix now)
+- 🌱 I’m currently working full-time and building side projects in free time
 - 💞️ I’m looking to collaborate on React based JavaScript projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adnan-sheikh/)
 
