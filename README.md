@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnan-sheikh
 - 👀 I’m interested in Full-stack web app dev using Remix (& TypeScript)
-- 🌱 I’m currently working full-time and building side projects in free time
-- 💞️ I’m looking to collaborate on React based JavaScript projects
+- 🌱 I’m currently working full-time and building Remix based side projects in free time
+- 💞️ I’m looking to collaborate on React based TypeScript projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adnan-sheikh/)
 
 <!---
